@@ -1,0 +1,163 @@
+{
+  "animations": [
+    {
+      "loop": false,
+      "offsets": [
+        -9,
+        63
+      ],
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "tiky singup"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        0,
+        0
+      ],
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "tiky idle"
+    },
+    {
+      "offsets": [
+        108,
+        32
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "tiky left"
+    },
+    {
+      "offsets": [
+        55,
+        15
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "tiky down"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        277,
+        598
+      ],
+      "fps": 24,
+      "anim": "scream",
+      "indices": [],
+      "name": "tiky up-alt"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        277,
+        598
+      ],
+      "fps": 24,
+      "anim": "hurt",
+      "indices": [],
+      "name": "tiky up-alt"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        277,
+        595
+      ],
+      "fps": 24,
+      "anim": "hey",
+      "indices": [],
+      "name": "tiky up-alt"
+    },
+    {
+      "loop": false,
+      "offsets": [
+        275,
+        597
+      ],
+      "fps": 24,
+      "anim": "land",
+      "indices": [],
+      "name": "tiky land"
+    },
+    {
+      "offsets": [
+        145,
+        -26
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "tiky right"
+    },
+    {
+      "offsets": [
+        -7,
+        53
+      ],
+      "indices": [],
+      "fps": 18,
+      "anim": "wait",
+      "loop": false,
+      "name": "tiky holup"
+    },
+    {
+      "offsets": [
+        -7,
+        53
+      ],
+      "indices": [
+        "11",
+        "12",
+        "13"
+      ],
+      "fps": 18,
+      "anim": "fall",
+      "loop": false,
+      "name": "tiky holup"
+    },
+    {
+      "offsets": [
+        0,
+        -19
+      ],
+      "indices": [
+        0,
+        1,
+        2
+      ],
+      "fps": 24,
+      "anim": "go",
+      "loop": false,
+      "name": "tiky land"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/acceleranttricky",
+  "position": [
+    15,
+    374
+  ],
+  "healthicon": "tricky-old",
+  "flip_x": false,
+  "healthbar_colors": [
+    34,
+    156,
+    83
+  ],
+  "camera_position": [
+    -230,
+    -430
+  ],
+  "sing_duration": 6.1,
+  "scale": 1.4
+}

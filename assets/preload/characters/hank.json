@@ -1,0 +1,157 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Anti-Hank Idle"
+		},
+		{
+			"offsets": [
+				-80,
+				-49
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Anti-Hank M RIGHT"
+		},
+		{
+			"offsets": [
+				22,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Anti-Hank M DOWN"
+		},
+		{
+			"offsets": [
+				61,
+				83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Anti-Hank M UP"
+		},
+		{
+			"offsets": [
+				-296,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "block",
+			"indices": [],
+			"name": "Anti-Hank Block"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ANTI-Hank M LEFT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				62,
+				83
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Anti-Hank M UP",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				22,
+				5
+			],
+			"anim": "singDOWN-loop",
+			"fps": 24,
+			"name": "Anti-Hank M DOWN",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-80,
+				-53
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Anti-Hank M RIGHT",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"offsets": [
+				43,
+				3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "ANTI-Hank M LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PIPEMAN",
+	"position": [
+		-90,
+		200
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		24,
+		21,
+		40
+	],
+	"camera_position": [
+		160,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

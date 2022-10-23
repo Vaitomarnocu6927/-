@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Conductric ChooChoo anim"
+		},
+		{
+			"offsets": [
+				0,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Conductric ChooChoo anim"
+		},
+		{
+			"offsets": [
+				0,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Conductric ChooChoo anim"
+		},
+		{
+			"offsets": [
+				0,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Conductric ChooChoo anim"
+		},
+		{
+			"offsets": [
+				0,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Conductric ChooChoo anim"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TRICKYTAUNT",
+	"position": [
+		-10,
+		60
+	],
+	"healthicon": "tricky",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		126,
+		160
+	],
+	"camera_position": [
+		-160,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

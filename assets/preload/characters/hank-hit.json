@@ -1,0 +1,59 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				417,
+				581
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Anti-Hank Batter Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				417,
+				581
+			],
+			"anim": "smash",
+			"fps": 24,
+			"name": "Anti-Hank Batter Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				417,
+				581
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "smashFirst",
+			"indices": [
+				0,
+				0
+			],
+			"name": "Anti-Hank Batter Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hank_hit",
+	"position": [
+		320,
+		320
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		76
+	],
+	"camera_position": [
+		-640,
+		-500
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

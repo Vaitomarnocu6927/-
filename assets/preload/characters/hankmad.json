@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-300,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "block",
+			"indices": [],
+			"name": "Anti-Hank Block"
+		},
+		{
+			"offsets": [
+				-2,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MAD-Hank Idle"
+		},
+		{
+			"offsets": [
+				28,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MAD-Hank M LEFT"
+		},
+		{
+			"offsets": [
+				-49,
+				-51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MAD-Hank M RIGHT"
+		},
+		{
+			"offsets": [
+				18,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MAD-Hank M DOWN"
+		},
+		{
+			"offsets": [
+				65,
+				110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MAD-Hank M UP"
+		},
+		{
+			"offsets": [
+				-49,
+				-51
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "MAD-Hank M RIGHT"
+		},
+		{
+			"offsets": [
+				65,
+				110
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "MAD-Hank M UP"
+		},
+		{
+			"offsets": [
+				18,
+				8
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "MAD-Hank M DOWN"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				28,
+				8
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "MAD-Hank M LEFT",
+			"indices": [
+				7,
+				8,
+				9,
+				10
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MADMAN",
+	"position": [
+		-130,
+		240
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		24,
+		21,
+		40
+	],
+	"camera_position": [
+		130,
+		-140
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}
